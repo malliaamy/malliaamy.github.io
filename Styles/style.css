@@ -1,0 +1,91 @@
+#titleColor {
+    
+    color: white;
+    border-radius: 20px;
+    padding: 10px; 
+     
+}
+
+#titleColor li{
+ 
+  color: white;
+   
+}
+
+#navbarSupportedContent {
+  width:100%;
+}
+
+#navbarSupportedContent ul {
+  width: 100%;
+}
+
+
+.badgeStyle {
+    color: white;
+    border-radius: 20px;
+   
+}
+
+.badgeStyle:hover {
+    color: white;
+    box-shadow: rgb(200, 200, 200) 1px 2px 7px 2px;
+}
+
+#boxStyle {
+ border-radius: 20px;
+}
+
+
+
+.profileIcon{
+  background-color: lightgray;
+  display: block;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  color: black;
+}
+
+.profileIcon:hover {
+  background-color: #ef420e;
+  color: white;
+  box-shadow: darkgray 1px 2px 7px 2px;
+}
+
+#profileIcons li{
+display: inline-block;
+list-style: none;
+}
+
+#textPad {
+  padding-inline: 10%;
+}
+
+.cardTitle {
+  color: white;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+border-radius: 20px;
+}
+
+.cardText {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  
+}
+
+#commRequest {
+padding: 2%;
+text-align: center;
+padding-left: 2%;
+}
+
+.logIn {
+  margin-top: 5%;
+  padding: 5%;
+}
